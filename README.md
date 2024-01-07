@@ -4,7 +4,7 @@ This is a simple Python script that sorts a list of numbers in ascending order.
 
 ## How to Run
 
-1. Ensure you have Python installed on your machine. You can download Python <a href="https://www.python.org/downloads/">Here<a/>
+1. Ensure you have Python installed on your machine. You can download Python <a href="https://www.python.org/downloads/">Here</a>
 
 2. Clone this repository to your local machine.
 
